@@ -20,6 +20,9 @@ and go to `_post` directory, then `+ NEW FILE` to create new article.
  
 Make sure to change `Metadata` as follows.
 
+> We loved with a love that was more than love
+
+-nkjkj1.kjkjkjk1.kjkjkj
 	layout: post
 	title: my first article
 	published: true
