@@ -1,4 +1,4 @@
-****hkjhkhkjhkhklhhjkjkjlkjlkjlkjlkjlllllllllllllllllllllllllllllllllllllllllll****## 5 steps to get started blogging on GitHub with [Prose.io](http://prose.io/)
+****************hkjhkhkjhkhklhhjkjkjlkjlkjlkjlkjlllllllllllllllllllllllllllllllllllllllllll****## 5 steps to get started blogging on GitHub with [Prose.io](http://prose.io/)
 
 ### Step.1
 Fork this repository.
